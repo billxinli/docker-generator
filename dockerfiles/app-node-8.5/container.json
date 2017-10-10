@@ -1,0 +1,13 @@
+{
+  "image": "billli/app-node-8.5",
+  "name": "app-node-8.5",
+  "simpleName": "node",
+  "description": "Node 8.5",
+  "requireCommandInput": true,
+  "defaultCommand": "npm start",
+  "commandKey": "appNodeCommand",
+
+  "ports": [
+    3000
+  ]
+}

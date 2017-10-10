@@ -1,0 +1,12 @@
+{
+  "image": "billli/app-ruby-2.4",
+  "name": "app-ruby-2.4",
+  "simpleName": "ruby",
+  "description": "Ruby 2.4",
+  "requireCommandInput": true,
+  "defaultCommand": "rails s",
+  "commandKey": "appRubyCommand",
+  "ports": [
+    3000
+  ]
+}

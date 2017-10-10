@@ -1,0 +1,23 @@
+{
+  "name": "docker-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "container-generator": "./index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "glob": "^7.1.2",
+    "inquirer": "^3.2.3",
+    "js-yaml": "^3.10.0",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.18.1",
+    "mustache": "^2.3.0",
+    "rx": "^4.1.0"
+  }
+}

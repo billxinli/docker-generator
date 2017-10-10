@@ -1,0 +1,13 @@
+{
+  "image": "billli/service-redis-3.0",
+  "name": "service-redis-3.0",
+  "simpleName": "redis",
+  "description": "Redis 3.0",
+  "ports": [
+    6379
+  ],
+  "volumes": [
+    "/var/log/redis",
+    "/var/lib/redis"
+  ]
+}

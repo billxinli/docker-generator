@@ -1,0 +1,13 @@
+{
+  "image": "billli/service-postgresql-9.5",
+  "name": "service-postgresql-9.5",
+  "simpleName": "postgresql",
+  "description": "PostgreSQL 9.5",
+  "ports": [
+    5432
+  ],
+  "volumes": [
+    "/var/log/postgresql",
+    "/var/lib/postgresql"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "image": "billli/app-elixir-1.5",
+  "name": "app-elixir-1.5",
+  "simpleName": "elixir",
+  "description": "Elixir 1.5",
+  "requireCommandInput": true,
+  "defaultCommand": "mix phx.server",
+  "commandKey": "appElixirCommand",
+  "ports": [
+    3000
+  ]
+}

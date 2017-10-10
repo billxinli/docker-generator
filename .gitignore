@@ -1,0 +1,6 @@
+.idea
+docker-compose.yml
+container-data
+node_modules
+.DS_Store
+
